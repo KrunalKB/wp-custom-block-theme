@@ -1,1 +1,2 @@
-# wp-custom-block-theme
+# 🎨 Custom Block Based Theme      
+Block Based Theme - Full Site Editing
